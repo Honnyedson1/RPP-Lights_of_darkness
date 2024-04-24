@@ -6,6 +6,18 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 8c9cfa26abfee488c85f1582747f6a02
+    path: Assets/Honnyedson/Scenes/Initialization.unity
+    guid: 88f2e41f19ee83a4d89e11b160840e09
+  - enabled: 1
+    path: Assets/Honnyedson/Scenes/Splash.unity
+    guid: fcdb7f2fbe350fd4697c07275a298f0c
+  - enabled: 1
+    path: Assets/Honnyedson/Scenes/MainMenu.unity
+    guid: a9eca47cb6c708c4e880ee881c28d642
+  - enabled: 1
+    path: Assets/Honnyedson/Scenes/GUI.unity
+    guid: ef81897c376a330409c7648142f0b82a
+  - enabled: 1
+    path: Assets/Honnyedson/Scenes/LEVEL....unity
+    guid: 7987d5628516ad945ad2cd0f901458b9
   m_configObjects: {}
